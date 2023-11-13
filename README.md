@@ -15,4 +15,6 @@ There are some packages which you does not need to install externaly they alread
 There are total 10 python packages have been imported make sure you download each and every single package.
 To use this program correctly.
 
+Add the path of the audio file wherever it is required.
+
 #Enjoy!
